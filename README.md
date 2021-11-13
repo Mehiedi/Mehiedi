@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Mehiedi/Mehiedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Follow me
+
+### <a href="https://facebook.com/xmehiedii" class="fa fa-facebook">Facebook</a> ### <a href="#" class="fa fa-linkedin"></a><a href="https://twitter.com/xmehiedi" class="fa fa-twitter"> </a>
 
 Here are some ideas to get you started:
 
