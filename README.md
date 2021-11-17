@@ -8,7 +8,7 @@
 - 🎓 Dhaka International University
 - 🔭 I’m currently working on App development!
 - 🌱 I’m currently learning Dart & Flutter!
-- 👯 I’m looking to collaborate on Flutter Development!
+- 👯 I’m looking to collaborate on Mobile Application, Web & Flutter Development!
 - 🤔 I’m looking for help with Flutter development & Web Designing!
 - 💬 Ask me about : Whatever you want😴
 - ⚡ Fun fact: Gossiping with friends , Tea & Bugs!
