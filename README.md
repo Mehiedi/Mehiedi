@@ -5,7 +5,7 @@
 ## <a href="https://facebook.com/xmehiedii" class="fa fa-facebook">Facebook</a> <a href="https://www.linkedin.com/in/mehiedi" class="fa fa-linkedin">Linkedin</a> <a href="https://twitter.com/xmehiedi" class="fa fa-twitter">Twitter</a>
 
 
-- 🎓 Dhaka Int'l University
+- 🎓 Dhaka International University
 - 🔭 I’m currently working on App development!
 - 🌱 I’m currently learning Dart & Flutter!
 - 👯 I’m looking to collaborate on Flutter Development!
@@ -14,4 +14,4 @@
 - ⚡ Fun fact: Gossiping with friends , Tea & Bugs!
 - 📫 Contact Me: mehieedi@gmail.com or call me: +8801608428111
 
-## "Success is not a destiny,It's a journey!"
+## "Success is not a destiny, It's a journey!"
