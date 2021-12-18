@@ -12,6 +12,6 @@
 - 🤔 I’m looking for help with Flutter development & Web Designing!
 - 💬 Ask me about : Whatever you want😴
 - ⚡ Fun fact: Gossiping with friends , Tea & Bugs!
-- 📫 Contact Me: mehieedi@gmail.com or call me: +8801608428111
+- 📫 Feel free to Contact Me: mehieedi@gmail.com or call : +8801608428111
 
 ## "Success is not a destiny, It's a journey!"
