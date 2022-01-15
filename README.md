@@ -2,7 +2,7 @@
 
 ## Follow & Connect ME ☟
 
-## <a href="https://facebook.com/xmehiedii" class="fa fa-facebook">Facebook</a> <a href="https://www.linkedin.com/in/mehiedi" class="fa fa-linkedin">Linkedin</a> <a href="https://twitter.com/xmehiedi" class="fa fa-twitter">Twitter</a> <a href="https://twitter.com/mehiedinsta" class="fa fa-instagram">Twitter</a>
+## <a href="https://facebook.com/xmehiedii" class="fa fa-facebook">Facebook</a> <a href="https://www.linkedin.com/in/mehiedi" class="fa fa-linkedin">Linkedin</a> <a href="https://twitter.com/xmehiedi" class="fa fa-twitter">Twitter</a> <a href="https://instagram.com/mehiedinsta" class="fa fa-instagram">Instagram</a>
 
 
 
